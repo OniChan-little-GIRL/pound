@@ -2,6 +2,7 @@
 #include <android/log.h>
 #include <thread>
 #include <atomic>
+#include <chrono>
 #include <string>
 
 #define LOG_TAG "PoundJNI"
