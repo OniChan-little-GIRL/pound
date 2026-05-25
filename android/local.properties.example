@@ -1,0 +1,2 @@
+## SDK path is configured by CI/local Android Studio.
+# sdk.dir=/path/to/Android/Sdk
